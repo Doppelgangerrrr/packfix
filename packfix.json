@@ -1,0 +1,10 @@
+{
+  "updated": "2026-10-17",
+  "note": "Зеркала ресурспака AstrumMC для мода PackFix. Ключ - sha1 пака, который требует сервер.",
+  "packs": {
+    "6861225b94d1dff14401e967d9fce5e703b25153": [
+      "https://kappa.lol/abNVdE",
+      "https://kappa.lol/EyuZvx"
+    ]
+  }
+}
